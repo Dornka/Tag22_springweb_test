@@ -25,6 +25,7 @@ class RickAndMortyCharacterControllerTest {
     @Autowired
     MockMvc mockMvc;
 
+
     private static MockWebServer mockWebServer;
 
     @BeforeAll
